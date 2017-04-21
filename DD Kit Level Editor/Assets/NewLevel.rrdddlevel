@@ -1,0 +1,623 @@
+NewLevel;User;127.0.0.0;DD Default;False;~floor10x10;(10.0, 0.0, 0.0);(0.0, 0.0, 0.0);1;metalfloor;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://metalfloor/metalfloor" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="2200431507" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="3562405313" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="4119738414" type="3" value="0.885057,0.885057,0.885057,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="4119738583" type="3" value="0.637931,0.637931,0.637931,1.000000"/>
+ <presetinput identifier="Tiling" uid="4119738501" type="4" value="10"/>
+ <presetinput identifier="Rotate_45_Degrees" uid="4119738509" type="4" value="1"/>
+ </sbspreset>
+</sbspresets>
+;~floor10x10;(-10.0, 0.0, 0.0);(0.0, 0.0, 0.0);1;metalfloor;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://metalfloor/metalfloor" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="2200431507" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="3562405313" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="4119738414" type="3" value="0.885057,0.885057,0.885057,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="4119738583" type="3" value="0.637931,0.637931,0.637931,1.000000"/>
+ <presetinput identifier="Tiling" uid="4119738501" type="4" value="10"/>
+ <presetinput identifier="Rotate_45_Degrees" uid="4119738509" type="4" value="1"/>
+ </sbspreset>
+</sbspresets>
+;~floor10x10;(0.0, 0.0, -10.0);(0.0, 0.0, 0.0);1;metalfloor;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://metalfloor/metalfloor" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="2200431507" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="3562405313" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="4119738414" type="3" value="0.885057,0.885057,0.885057,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="4119738583" type="3" value="0.637931,0.637931,0.637931,1.000000"/>
+ <presetinput identifier="Tiling" uid="4119738501" type="4" value="10"/>
+ <presetinput identifier="Rotate_45_Degrees" uid="4119738509" type="4" value="1"/>
+ </sbspreset>
+</sbspresets>
+;~floor10x10;(0.0, 0.0, 10.0);(0.0, 0.0, 0.0);1;metalfloor;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://metalfloor/metalfloor" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="2200431507" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="3562405313" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="4119738414" type="3" value="0.885057,0.885057,0.885057,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="4119738583" type="3" value="0.637931,0.637931,0.637931,1.000000"/>
+ <presetinput identifier="Tiling" uid="4119738501" type="4" value="10"/>
+ <presetinput identifier="Rotate_45_Degrees" uid="4119738509" type="4" value="1"/>
+ </sbspreset>
+</sbspresets>
+;~floor10x10;(10.0, 0.0, 10.0);(0.0, 0.0, 0.0);1;metalfloor;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://metalfloor/metalfloor" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="2200431507" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="3562405313" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="4119738414" type="3" value="0.885057,0.885057,0.885057,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="4119738583" type="3" value="0.637931,0.637931,0.637931,1.000000"/>
+ <presetinput identifier="Tiling" uid="4119738501" type="4" value="10"/>
+ <presetinput identifier="Rotate_45_Degrees" uid="4119738509" type="4" value="1"/>
+ </sbspreset>
+</sbspresets>
+;~floor10x10;(10.0, 0.0, -10.0);(0.0, 0.0, 0.0);1;metalfloor;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://metalfloor/metalfloor" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="2200431507" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="3562405313" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="4119738414" type="3" value="0.885057,0.885057,0.885057,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="4119738583" type="3" value="0.637931,0.637931,0.637931,1.000000"/>
+ <presetinput identifier="Tiling" uid="4119738501" type="4" value="10"/>
+ <presetinput identifier="Rotate_45_Degrees" uid="4119738509" type="4" value="1"/>
+ </sbspreset>
+</sbspresets>
+;~floor10x10;(20.0, 0.0, 0.0);(0.0, 0.0, 0.0);1;metalfloor;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://metalfloor/metalfloor" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="2200431507" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="3562405313" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="4119738414" type="3" value="0.885057,0.885057,0.885057,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="4119738583" type="3" value="0.637931,0.637931,0.637931,1.000000"/>
+ <presetinput identifier="Tiling" uid="4119738501" type="4" value="10"/>
+ <presetinput identifier="Rotate_45_Degrees" uid="4119738509" type="4" value="1"/>
+ </sbspreset>
+</sbspresets>
+;~wall10x8;(15.0, 0.0, 10.0);(0.0, 90.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ </sbspreset>
+</sbspresets>
+;~wall10x8;(20.0, 0.0, 5.0);(0.0, 0.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ </sbspreset>
+</sbspresets>
+;~wall10x8;(25.0, 0.0, 0.0);(0.0, 90.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ </sbspreset>
+</sbspresets>
+;~wall10x8;(20.0, 0.0, -5.0);(0.0, 180.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ </sbspreset>
+</sbspresets>
+;~wall10x8;(15.0, 0.0, -10.0);(0.0, 90.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ </sbspreset>
+</sbspresets>
+;~wall10x8;(10.0, 0.0, -15.0);(0.0, 180.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ <presetinput identifier="leveloutlow" uid="2054953558" type="0" value="0.587143"/>
+ <presetinput identifier="levelouthigh" uid="2054953536" type="0" value="0.441429"/>
+ </sbspreset>
+</sbspresets>
+;~wall10x8;(0.0, 0.0, -15.0);(0.0, 180.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ </sbspreset>
+</sbspresets>
+;~wall10x8;(-5.0, 0.0, -10.0);(0.0, 270.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ </sbspreset>
+</sbspresets>
+;~wall10x8;(-10.0, 0.0, -5.0);(0.0, 180.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ </sbspreset>
+</sbspresets>
+;~wall10x8;(-15.0, 0.0, 0.0);(0.0, 270.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ </sbspreset>
+</sbspresets>
+;~wall10x8;(-10.0, 0.0, 5.0);(0.0, 0.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ </sbspreset>
+</sbspresets>
+;~wall10x8;(-5.0, 0.0, 10.0);(0.0, 270.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ <presetinput identifier="leveloutlow" uid="2054953558" type="0" value="0.587143"/>
+ <presetinput identifier="levelouthigh" uid="2054953536" type="0" value="0.441429"/>
+ </sbspreset>
+</sbspresets>
+;~led10;(-5.0, 0.0, 10.0);(0.0, 270.0, 0.0);0;;~led10;(0.0, 0.0, 15.0);(0.0, 0.0, 0.0);0;;~led10;(10.0, 0.0, 15.0);(0.0, 0.0, 0.0);0;;~led10;(15.0, 0.0, 10.0);(0.0, 90.0, 0.0);0;;~led10;(20.0, 0.0, 5.0);(0.0, 0.0, 0.0);0;;~led10;(25.0, 0.0, 0.0);(0.0, 90.0, 0.0);0;;~led10;(20.0, 0.0, -5.0);(0.0, 180.0, 0.0);0;;~led10;(15.0, 0.0, -10.0);(0.0, 90.0, 0.0);0;;~led10;(10.0, 0.0, -15.0);(0.0, 180.0, 0.0);0;;~led10;(0.0, 0.0, -15.0);(0.0, 180.0, 0.0);0;;~led10;(-5.0, 0.0, -10.0);(0.0, 270.0, 0.0);0;;~led10;(-10.0, 0.0, -5.0);(0.0, 180.0, 0.0);0;;~led10;(-15.0, 0.0, 0.0);(0.0, 270.0, 0.0);0;;~led10;(-10.0, 0.0, 5.0);(0.0, 0.0, 0.0);0;;~ceiling10x10;(20.0, 8.0, 0.0);(0.0, 0.0, 0.0);1;reflectiveTile;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://reflectiveTile/reflectiveTile" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="425473718" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1311645924" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="1862913135" type="3" value="0.646341,0.823171,1.000000,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="1862913105" type="0" value="0.176471"/>
+ <presetinput identifier="Bricks" uid="1862913099" type="8" value="1,1"/>
+ <presetinput identifier="Bevel" uid="1862913086" type="3" value="0.000000,0.100000,0.000000,0.000000"/>
+ <presetinput identifier="Gap" uid="1862913025" type="1" value="0.000000,0.000000"/>
+ <presetinput identifier="Middle_Size" uid="1862913246" type="1" value="0.500000,0.500000"/>
+ <presetinput identifier="Height" uid="1862912829" type="3" value="1.000000,1.000000,0.000000,0.000000"/>
+ <presetinput identifier="Slope" uid="1862913003" type="3" value="0.000000,0.000000,0.000000,0.000000"/>
+ <presetinput identifier="Offset" uid="1862912972" type="1" value="0.000000,0.000000"/>
+ <presetinput identifier="Keep_Ratio" uid="1862912943" type="4" value="1"/>
+ </sbspreset>
+</sbspresets>
+;~ceiling10x10;(-10.0, 8.0, 0.0);(0.0, 0.0, 0.0);1;reflectiveTile;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://reflectiveTile/reflectiveTile" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="425473718" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1311645924" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="1862913135" type="3" value="0.646341,0.823171,1.000000,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="1862913105" type="0" value="0.176471"/>
+ <presetinput identifier="Bricks" uid="1862913099" type="8" value="1,1"/>
+ <presetinput identifier="Bevel" uid="1862913086" type="3" value="0.000000,0.100000,0.000000,0.000000"/>
+ <presetinput identifier="Gap" uid="1862913025" type="1" value="0.000000,0.000000"/>
+ <presetinput identifier="Middle_Size" uid="1862913246" type="1" value="0.500000,0.500000"/>
+ <presetinput identifier="Height" uid="1862912829" type="3" value="1.000000,1.000000,0.000000,0.000000"/>
+ <presetinput identifier="Slope" uid="1862913003" type="3" value="0.000000,0.000000,0.000000,0.000000"/>
+ <presetinput identifier="Offset" uid="1862912972" type="1" value="0.000000,0.000000"/>
+ <presetinput identifier="Keep_Ratio" uid="1862912943" type="4" value="1"/>
+ </sbspreset>
+</sbspresets>
+;~led10;(20.0, 8.0, 5.0);(0.0, 0.0, 0.0);0;;~led10;(25.0, 8.0, 0.0);(0.0, 90.0, 0.0);0;;~led10;(20.0, 8.0, -5.0);(0.0, 180.0, 0.0);0;;~led10;(-10.0, 8.0, -5.0);(0.0, 180.0, 0.0);0;;~led10;(-15.0, 8.0, 0.0);(0.0, 270.0, 0.0);0;;~led10;(-10.0, 8.0, 5.0);(0.0, 0.0, 0.0);0;;~ledPillar8;(-5.0, 0.0, 5.0);(0.0, 0.0, 0.0);0;;~ledPillar8;(-5.0, 0.0, 15.0);(0.0, 0.0, 0.0);0;;~ledPillar8;(15.0, 0.0, 15.0);(0.0, 0.0, 0.0);0;;~ledPillar8;(15.0, 0.0, 5.0);(0.0, 0.0, 0.0);0;;~ledPillar8;(15.0, 0.0, -5.0);(0.0, 0.0, 0.0);0;;~ledPillar8;(15.0, 0.0, -15.0);(0.0, 0.0, 0.0);0;;~ledPillar8;(-5.0, 0.0, -15.0);(0.0, 0.0, 0.0);0;;~ledPillar8;(-5.0, 0.0, -5.0);(0.0, 0.0, 0.0);0;;~ledPillar8;(-15.0, 0.0, -5.0);(0.0, 0.0, 0.0);0;;~ledPillar8;(-15.0, 0.0, 5.0);(0.0, 0.0, 0.0);0;;~ledPillar8;(25.0, 0.0, 5.0);(0.0, 0.0, 0.0);0;;~ledPillar8;(25.0, 0.0, -5.0);(0.0, 0.0, 0.0);0;;~floor10x10;(0.0, 0.0, 0.0);(0.0, 0.0, 0.0);1;metalfloor;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://metalfloor/metalfloor" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="2200431507" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="3562405313" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="4119738414" type="3" value="0.885057,0.885057,0.885057,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="4119738583" type="3" value="0.637931,0.637931,0.637931,1.000000"/>
+ <presetinput identifier="Tiling" uid="4119738501" type="4" value="10"/>
+ <presetinput identifier="Rotate_45_Degrees" uid="4119738509" type="4" value="1"/>
+ <presetinput identifier="leveloutlow" uid="4118574471" type="0" value="0.292857"/>
+ <presetinput identifier="levelouthigh" uid="4118575700" type="0" value="0.887143"/>
+ </sbspreset>
+</sbspresets>
+;~wall10x8;(-5.0, 8.0, 10.0);(0.0, 270.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ <presetinput identifier="leveloutlow" uid="2054953558" type="0" value="0.587143"/>
+ <presetinput identifier="levelouthigh" uid="2054953536" type="0" value="0.441429"/>
+ </sbspreset>
+</sbspresets>
+;~wall10x8;(15.0, 8.0, 10.0);(0.0, 90.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ <presetinput identifier="leveloutlow" uid="2054953558" type="0" value="0.587143"/>
+ <presetinput identifier="levelouthigh" uid="2054953536" type="0" value="0.441429"/>
+ </sbspreset>
+</sbspresets>
+;~ledPillar8;(15.0, 8.0, 15.0);(0.0, 0.0, 0.0);0;;~ledPillar8;(-5.0, 8.0, 15.0);(0.0, 0.0, 0.0);0;;~led10;(15.0, 16.0, 10.0);(0.0, 90.0, 0.0);0;;~led10;(-5.0, 16.0, 10.0);(0.0, 270.0, 0.0);0;;~led10;(0.0, 16.0, 15.0);(0.0, 0.0, 0.0);0;;~led10;(10.0, 16.0, 15.0);(0.0, 0.0, 0.0);0;;~ceiling10x10;(0.0, 16.0, 10.0);(0.0, 0.0, 0.0);1;reflectiveTile;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://reflectiveTile/reflectiveTile" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="425473718" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1311645924" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="1862913135" type="3" value="0.646341,0.823171,1.000000,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="1862913105" type="0" value="0.176471"/>
+ <presetinput identifier="Bricks" uid="1862913099" type="8" value="1,1"/>
+ <presetinput identifier="Bevel" uid="1862913086" type="3" value="0.000000,0.100000,0.000000,0.000000"/>
+ <presetinput identifier="Gap" uid="1862913025" type="1" value="0.000000,0.000000"/>
+ <presetinput identifier="Middle_Size" uid="1862913246" type="1" value="0.500000,0.500000"/>
+ <presetinput identifier="Height" uid="1862912829" type="3" value="1.000000,1.000000,0.000000,0.000000"/>
+ <presetinput identifier="Slope" uid="1862913003" type="3" value="0.000000,0.000000,0.000000,0.000000"/>
+ <presetinput identifier="Offset" uid="1862912972" type="1" value="0.000000,0.000000"/>
+ <presetinput identifier="Keep_Ratio" uid="1862912943" type="4" value="1"/>
+ </sbspreset>
+</sbspresets>
+;~ceiling10x10;(10.0, 16.0, 10.0);(0.0, 0.0, 0.0);1;reflectiveTile;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://reflectiveTile/reflectiveTile" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="425473718" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1311645924" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="1862913135" type="3" value="0.646341,0.823171,1.000000,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="1862913105" type="0" value="0.176471"/>
+ <presetinput identifier="Bricks" uid="1862913099" type="8" value="1,1"/>
+ <presetinput identifier="Bevel" uid="1862913086" type="3" value="0.000000,0.100000,0.000000,0.000000"/>
+ <presetinput identifier="Gap" uid="1862913025" type="1" value="0.000000,0.000000"/>
+ <presetinput identifier="Middle_Size" uid="1862913246" type="1" value="0.500000,0.500000"/>
+ <presetinput identifier="Height" uid="1862912829" type="3" value="1.000000,1.000000,0.000000,0.000000"/>
+ <presetinput identifier="Slope" uid="1862913003" type="3" value="0.000000,0.000000,0.000000,0.000000"/>
+ <presetinput identifier="Offset" uid="1862912972" type="1" value="0.000000,0.000000"/>
+ <presetinput identifier="Keep_Ratio" uid="1862912943" type="4" value="1"/>
+ </sbspreset>
+</sbspresets>
+;~wall10x8;(0.0, 0.0, 15.0);(0.0, 0.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ <presetinput identifier="leveloutlow" uid="2054953558" type="0" value="0.587143"/>
+ <presetinput identifier="levelouthigh" uid="2054953536" type="0" value="0.441429"/>
+ </sbspreset>
+</sbspresets>
+;~wall10x8;(10.0, 0.0, 15.0);(0.0, 0.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ <presetinput identifier="leveloutlow" uid="2054953558" type="0" value="0.587143"/>
+ <presetinput identifier="levelouthigh" uid="2054953536" type="0" value="0.441429"/>
+ </sbspreset>
+</sbspresets>
+;~wall10x8;(10.0, 8.0, 15.0);(0.0, 0.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ <presetinput identifier="leveloutlow" uid="2054953558" type="0" value="0.587143"/>
+ <presetinput identifier="levelouthigh" uid="2054953536" type="0" value="0.441429"/>
+ </sbspreset>
+</sbspresets>
+;~wall10x8;(0.0, 8.0, 15.0);(0.0, 0.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ <presetinput identifier="leveloutlow" uid="2054953558" type="0" value="0.587143"/>
+ <presetinput identifier="levelouthigh" uid="2054953536" type="0" value="0.441429"/>
+ </sbspreset>
+</sbspresets>
+;~led10;(5.0, 5.0, 15.0);(0.0, 0.0, 0.0);0;;~quarterPipe5x5x5;(2.5, 0.0, 12.5);(0.0, 0.0, 0.0);1;metalfloor;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://metalfloor/metalfloor" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="2200431507" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="3562405313" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="4119738414" type="3" value="0.885057,0.885057,0.885057,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="4119738583" type="3" value="0.637931,0.637931,0.637931,1.000000"/>
+ <presetinput identifier="Tiling" uid="4119738501" type="4" value="10"/>
+ <presetinput identifier="Rotate_45_Degrees" uid="4119738509" type="4" value="1"/>
+ <presetinput identifier="leveloutlow" uid="4118574471" type="0" value="0.292857"/>
+ <presetinput identifier="levelouthigh" uid="4118575700" type="0" value="0.887143"/>
+ </sbspreset>
+</sbspresets>
+;~quarterPipe5x5x5;(7.5, 0.0, 12.5);(0.0, 0.0, 0.0);1;metalfloor;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://metalfloor/metalfloor" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="2200431507" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="3562405313" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="4119738414" type="3" value="0.885057,0.885057,0.885057,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="4119738583" type="3" value="0.637931,0.637931,0.637931,1.000000"/>
+ <presetinput identifier="Tiling" uid="4119738501" type="4" value="10"/>
+ <presetinput identifier="Rotate_45_Degrees" uid="4119738509" type="4" value="1"/>
+ <presetinput identifier="leveloutlow" uid="4118574471" type="0" value="0.292857"/>
+ <presetinput identifier="levelouthigh" uid="4118575700" type="0" value="0.887143"/>
+ </sbspreset>
+</sbspresets>
+;~cube5x5x1;(-2.5, 4.0, 12.5);(0.0, 0.0, 0.0);1;metalfloor;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://metalfloor/metalfloor" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="2200431507" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="3562405313" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="4119738414" type="3" value="0.885057,0.885057,0.885057,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="4119738583" type="3" value="0.637931,0.637931,0.637931,1.000000"/>
+ <presetinput identifier="Tiling" uid="4119738501" type="4" value="10"/>
+ <presetinput identifier="Rotate_45_Degrees" uid="4119738509" type="4" value="1"/>
+ <presetinput identifier="leveloutlow" uid="4118574471" type="0" value="0.292857"/>
+ <presetinput identifier="levelouthigh" uid="4118575700" type="0" value="0.887143"/>
+ </sbspreset>
+</sbspresets>
+;~cube5x5x1;(12.5, 4.0, 12.5);(0.0, 0.0, 0.0);1;metalfloor;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://metalfloor/metalfloor" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="2200431507" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="3562405313" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="4119738414" type="3" value="0.885057,0.885057,0.885057,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="4119738583" type="3" value="0.637931,0.637931,0.637931,1.000000"/>
+ <presetinput identifier="Tiling" uid="4119738501" type="4" value="10"/>
+ <presetinput identifier="Rotate_45_Degrees" uid="4119738509" type="4" value="1"/>
+ <presetinput identifier="leveloutlow" uid="4118574471" type="0" value="0.292857"/>
+ <presetinput identifier="levelouthigh" uid="4118575700" type="0" value="0.887143"/>
+ </sbspreset>
+</sbspresets>
+;~ledQuarterPipe5x5x5;(0.0, 0.0, 12.5);(0.0, 0.0, 0.0);0;;~ledQuarterPipe5x5x5;(10.0, 0.0, 12.5);(0.0, 0.0, 0.0);0;;~led5;(0.0, 5.0, 12.5);(0.0, 270.0, 0.0);0;;~led5;(-2.5, 5.0, 10.0);(0.0, 0.0, 0.0);0;;~led5;(12.5, 5.0, 10.0);(0.0, 0.0, 0.0);0;;~led5;(10.0, 5.0, 12.5);(0.0, 90.0, 0.0);0;;~led5;(0.0, 4.0, 12.5);(0.0, 270.0, 0.0);0;;~led5;(-2.5, 4.0, 10.0);(0.0, 0.0, 0.0);0;;~led5;(12.5, 4.0, 10.0);(0.0, 0.0, 0.0);0;;~led5;(10.0, 4.0, 12.5);(0.0, 90.0, 0.0);0;;~quarterPipe5x5x5;(-2.5, 0.0, -7.5);(0.0, 270.0, 0.0);1;metalfloor;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://metalfloor/metalfloor" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="2200431507" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="3562405313" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="4119738414" type="3" value="0.885057,0.885057,0.885057,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="4119738583" type="3" value="0.637931,0.637931,0.637931,1.000000"/>
+ <presetinput identifier="Tiling" uid="4119738501" type="4" value="10"/>
+ <presetinput identifier="Rotate_45_Degrees" uid="4119738509" type="4" value="1"/>
+ <presetinput identifier="leveloutlow" uid="4118574471" type="0" value="0.292857"/>
+ <presetinput identifier="levelouthigh" uid="4118575700" type="0" value="0.887143"/>
+ </sbspreset>
+</sbspresets>
+;~quarterPipe5x5x5;(-2.5, 0.0, -12.5);(0.0, 270.0, 0.0);1;metalfloor;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://metalfloor/metalfloor" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="2200431507" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="3562405313" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="4119738414" type="3" value="0.885057,0.885057,0.885057,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="4119738583" type="3" value="0.637931,0.637931,0.637931,1.000000"/>
+ <presetinput identifier="Tiling" uid="4119738501" type="4" value="10"/>
+ <presetinput identifier="Rotate_45_Degrees" uid="4119738509" type="4" value="1"/>
+ <presetinput identifier="leveloutlow" uid="4118574471" type="0" value="0.292857"/>
+ <presetinput identifier="levelouthigh" uid="4118575700" type="0" value="0.887143"/>
+ </sbspreset>
+</sbspresets>
+;~quarterPipe5x5x5;(12.5, 0.0, -7.5);(0.0, 90.0, 0.0);1;metalfloor;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://metalfloor/metalfloor" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="2200431507" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="3562405313" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="4119738414" type="3" value="0.885057,0.885057,0.885057,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="4119738583" type="3" value="0.637931,0.637931,0.637931,1.000000"/>
+ <presetinput identifier="Tiling" uid="4119738501" type="4" value="10"/>
+ <presetinput identifier="Rotate_45_Degrees" uid="4119738509" type="4" value="1"/>
+ <presetinput identifier="leveloutlow" uid="4118574471" type="0" value="0.292857"/>
+ <presetinput identifier="levelouthigh" uid="4118575700" type="0" value="0.887143"/>
+ </sbspreset>
+</sbspresets>
+;~quarterPipe5x5x5;(12.5, 0.0, -12.5);(0.0, 90.0, 0.0);1;metalfloor;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://metalfloor/metalfloor" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="2200431507" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="3562405313" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="4119738414" type="3" value="0.885057,0.885057,0.885057,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="4119738583" type="3" value="0.637931,0.637931,0.637931,1.000000"/>
+ <presetinput identifier="Tiling" uid="4119738501" type="4" value="10"/>
+ <presetinput identifier="Rotate_45_Degrees" uid="4119738509" type="4" value="1"/>
+ <presetinput identifier="leveloutlow" uid="4118574471" type="0" value="0.292857"/>
+ <presetinput identifier="levelouthigh" uid="4118575700" type="0" value="0.887143"/>
+ </sbspreset>
+</sbspresets>
+;~ledQuarterPipe5x5x5;(12.5, 0.0, -15.0);(0.0, 90.0, 0.0);0;;~ledQuarterPipe5x5x5;(12.5, 0.0, -5.0);(0.0, 90.0, 0.0);0;;~ledQuarterPipe5x5x5;(-2.5, 0.0, -5.0);(0.0, 270.0, 0.0);0;;~ledQuarterPipe5x5x5;(-2.5, 0.0, -15.0);(0.0, 270.0, 0.0);0;;~led10;(-5.0, 5.0, -10.0);(0.0, 270.0, 0.0);0;;~led10;(15.0, 5.0, -10.0);(0.0, 90.0, 0.0);0;;~led10;(-5.0, 8.0, 0.0);(0.0, 270.0, 0.0);0;;~led10;(15.0, 8.0, 0.0);(0.0, 90.0, 0.0);0;;~wall10x8;(-5.0, 8.0, 0.0);(0.0, 270.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ <presetinput identifier="leveloutlow" uid="2054953558" type="0" value="0.587143"/>
+ <presetinput identifier="levelouthigh" uid="2054953536" type="0" value="0.441429"/>
+ </sbspreset>
+</sbspresets>
+;~wall10x8;(-5.0, 8.0, -10.0);(0.0, 270.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ <presetinput identifier="leveloutlow" uid="2054953558" type="0" value="0.587143"/>
+ <presetinput identifier="levelouthigh" uid="2054953536" type="0" value="0.441429"/>
+ </sbspreset>
+</sbspresets>
+;~wall10x8;(0.0, 8.0, -15.0);(0.0, 180.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ <presetinput identifier="leveloutlow" uid="2054953558" type="0" value="0.587143"/>
+ <presetinput identifier="levelouthigh" uid="2054953536" type="0" value="0.441429"/>
+ </sbspreset>
+</sbspresets>
+;~wall10x8;(10.0, 8.0, -15.0);(0.0, 180.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ <presetinput identifier="leveloutlow" uid="2054953558" type="0" value="0.587143"/>
+ <presetinput identifier="levelouthigh" uid="2054953536" type="0" value="0.441429"/>
+ </sbspreset>
+</sbspresets>
+;~wall10x8;(15.0, 8.0, -10.0);(0.0, 90.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ <presetinput identifier="leveloutlow" uid="2054953558" type="0" value="0.587143"/>
+ <presetinput identifier="levelouthigh" uid="2054953536" type="0" value="0.441429"/>
+ </sbspreset>
+</sbspresets>
+;~wall10x8;(15.0, 8.0, 0.0);(0.0, 90.0, 0.0);1;bricks;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://bricks/bricks" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="203919704" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1532331786" type="4" value="0"/>
+ <presetinput identifier="Tiling" uid="2055820175" type="4" value="1"/>
+ <presetinput identifier="Intensity" uid="2055820526" type="0" value="16.000000"/>
+ <presetinput identifier="outputcolor" uid="2055820613" type="3" value="0.873563,0.873563,0.495785,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="2055820670" type="3" value="0.563218,0.563218,0.563218,1.000000"/>
+ <presetinput identifier="smoothing" uid="2055842492" type="0" value="2.500000"/>
+ <presetinput identifier="distance" uid="2055842798" type="0" value="-0.500000"/>
+ <presetinput identifier="leveloutlow" uid="2054953558" type="0" value="0.587143"/>
+ <presetinput identifier="levelouthigh" uid="2054953536" type="0" value="0.441429"/>
+ </sbspreset>
+</sbspresets>
+;~ceiling10x10;(10.0, 16.0, 0.0);(0.0, 0.0, 0.0);1;reflectiveTile;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://reflectiveTile/reflectiveTile" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="425473718" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1311645924" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="1862913135" type="3" value="0.646341,0.823171,1.000000,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="1862913105" type="0" value="0.176471"/>
+ <presetinput identifier="Bricks" uid="1862913099" type="8" value="1,1"/>
+ <presetinput identifier="Bevel" uid="1862913086" type="3" value="0.000000,0.100000,0.000000,0.000000"/>
+ <presetinput identifier="Gap" uid="1862913025" type="1" value="0.000000,0.000000"/>
+ <presetinput identifier="Middle_Size" uid="1862913246" type="1" value="0.500000,0.500000"/>
+ <presetinput identifier="Height" uid="1862912829" type="3" value="1.000000,1.000000,0.000000,0.000000"/>
+ <presetinput identifier="Slope" uid="1862913003" type="3" value="0.000000,0.000000,0.000000,0.000000"/>
+ <presetinput identifier="Offset" uid="1862912972" type="1" value="0.000000,0.000000"/>
+ <presetinput identifier="Keep_Ratio" uid="1862912943" type="4" value="1"/>
+ </sbspreset>
+</sbspresets>
+;~ceiling10x10;(0.0, 16.0, 0.0);(0.0, 0.0, 0.0);1;reflectiveTile;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://reflectiveTile/reflectiveTile" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="425473718" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1311645924" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="1862913135" type="3" value="0.646341,0.823171,1.000000,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="1862913105" type="0" value="0.176471"/>
+ <presetinput identifier="Bricks" uid="1862913099" type="8" value="1,1"/>
+ <presetinput identifier="Bevel" uid="1862913086" type="3" value="0.000000,0.100000,0.000000,0.000000"/>
+ <presetinput identifier="Gap" uid="1862913025" type="1" value="0.000000,0.000000"/>
+ <presetinput identifier="Middle_Size" uid="1862913246" type="1" value="0.500000,0.500000"/>
+ <presetinput identifier="Height" uid="1862912829" type="3" value="1.000000,1.000000,0.000000,0.000000"/>
+ <presetinput identifier="Slope" uid="1862913003" type="3" value="0.000000,0.000000,0.000000,0.000000"/>
+ <presetinput identifier="Offset" uid="1862912972" type="1" value="0.000000,0.000000"/>
+ <presetinput identifier="Keep_Ratio" uid="1862912943" type="4" value="1"/>
+ </sbspreset>
+</sbspresets>
+;~ceiling10x10;(0.0, 16.0, -10.0);(0.0, 0.0, 0.0);1;reflectiveTile;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://reflectiveTile/reflectiveTile" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="425473718" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1311645924" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="1862913135" type="3" value="0.646341,0.823171,1.000000,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="1862913105" type="0" value="0.176471"/>
+ <presetinput identifier="Bricks" uid="1862913099" type="8" value="1,1"/>
+ <presetinput identifier="Bevel" uid="1862913086" type="3" value="0.000000,0.100000,0.000000,0.000000"/>
+ <presetinput identifier="Gap" uid="1862913025" type="1" value="0.000000,0.000000"/>
+ <presetinput identifier="Middle_Size" uid="1862913246" type="1" value="0.500000,0.500000"/>
+ <presetinput identifier="Height" uid="1862912829" type="3" value="1.000000,1.000000,0.000000,0.000000"/>
+ <presetinput identifier="Slope" uid="1862913003" type="3" value="0.000000,0.000000,0.000000,0.000000"/>
+ <presetinput identifier="Offset" uid="1862912972" type="1" value="0.000000,0.000000"/>
+ <presetinput identifier="Keep_Ratio" uid="1862912943" type="4" value="1"/>
+ </sbspreset>
+</sbspresets>
+;~ceiling10x10;(10.0, 16.0, -10.0);(0.0, 0.0, 0.0);1;reflectiveTile;<sbspresets formatversion="1.0" count="1">
+ <sbspreset pkgurl="pkg://reflectiveTile/reflectiveTile" description="Exported from Unity" label="unity">
+ <presetinput identifier="$outputsize" uid="425473718" type="8" value="9,9"/>
+ <presetinput identifier="$randomseed" uid="1311645924" type="4" value="0"/>
+ <presetinput identifier="outputcolor" uid="1862913135" type="3" value="0.646341,0.823171,1.000000,1.000000"/>
+ <presetinput identifier="outputcolor_1" uid="1862913105" type="0" value="0.176471"/>
+ <presetinput identifier="Bricks" uid="1862913099" type="8" value="1,1"/>
+ <presetinput identifier="Bevel" uid="1862913086" type="3" value="0.000000,0.100000,0.000000,0.000000"/>
+ <presetinput identifier="Gap" uid="1862913025" type="1" value="0.000000,0.000000"/>
+ <presetinput identifier="Middle_Size" uid="1862913246" type="1" value="0.500000,0.500000"/>
+ <presetinput identifier="Height" uid="1862912829" type="3" value="1.000000,1.000000,0.000000,0.000000"/>
+ <presetinput identifier="Slope" uid="1862913003" type="3" value="0.000000,0.000000,0.000000,0.000000"/>
+ <presetinput identifier="Offset" uid="1862912972" type="1" value="0.000000,0.000000"/>
+ <presetinput identifier="Keep_Ratio" uid="1862912943" type="4" value="1"/>
+ </sbspreset>
+</sbspresets>
+;~ledPillar8;(15.0, 8.0, -15.0);(0.0, 0.0, 0.0);0;;~ledPillar8;(-5.0, 8.0, -15.0);(0.0, 0.0, 0.0);0;;~led10;(-5.0, 16.0, 0.0);(0.0, 270.0, 0.0);0;;~led10;(-5.0, 16.0, -10.0);(0.0, 270.0, 0.0);0;;~led10;(0.0, 16.0, -15.0);(0.0, 180.0, 0.0);0;;~led10;(10.0, 16.0, -15.0);(0.0, 180.0, 0.0);0;;~led10;(15.0, 16.0, -10.0);(0.0, 90.0, 0.0);0;;~led10;(15.0, 16.0, 0.0);(0.0, 90.0, 0.0);0;;
